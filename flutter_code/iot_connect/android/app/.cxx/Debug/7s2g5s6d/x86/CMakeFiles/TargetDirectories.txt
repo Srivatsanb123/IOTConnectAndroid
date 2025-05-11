@@ -1,0 +1,2 @@
+C:/Srivatsan/Projects/IOTConnectAndroid/flutter_code/iot_connect/android/app/.cxx/Debug/7s2g5s6d/x86/CMakeFiles/edit_cache.dir
+C:/Srivatsan/Projects/IOTConnectAndroid/flutter_code/iot_connect/android/app/.cxx/Debug/7s2g5s6d/x86/CMakeFiles/rebuild_cache.dir

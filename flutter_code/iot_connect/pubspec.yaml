@@ -1,0 +1,25 @@
+name: iot_connect
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.9.0
+  permission_handler: ^11.3.1
+  firebase_database: ^11.2.0
+  open_settings: ^2.0.2
+  bluetooth_classic: ^0.0.2
+  flutter_bluetooth_seria_changed: ^0.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

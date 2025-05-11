@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "453137939465",
+    "firebase_url": "https://esp32led-7ee74-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp32led-7ee74",
+    "storage_bucket": "esp32led-7ee74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453137939465:android:b6b1eaf7385b45d86f8cd8",
+        "android_client_info": {
+          "package_name": "com.example.espled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAItAKD9n-NkJt1b5fKd1kiUla_j3tY6fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453137939465:android:b942541e3de459f86f8cd8",
+        "android_client_info": {
+          "package_name": "com.iotconnect.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAItAKD9n-NkJt1b5fKd1kiUla_j3tY6fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
