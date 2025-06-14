@@ -1,4 +1,4 @@
-# IOTConnectAndroid
+# NodeNexus
 
 ## Overview
 
